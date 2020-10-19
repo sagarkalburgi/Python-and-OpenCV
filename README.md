@@ -12,4 +12,7 @@ This is an ongoing project. Various image processing projects using python and o
 ![Contour Detection](images/contour detection.JPG)
 
 # Morphological Operations - Dilation, Erosion, Opening and Closing 
-![Contour Detection](images/Dilation erosion opening and closing.JPG)
+![Dilation erosion opening and closing](images/Dilation erosion opening and closing.JPG)
+
+# Displaying Date and Time 
+![displaying date and time](images/displaying date and time.JPG)
