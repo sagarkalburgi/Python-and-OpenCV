@@ -15,9 +15,9 @@ This is an ongoing project. Various image processing projects using python and o
 ![Morphological Operations - Dilation, Erosion, Opening and Closing ](/images/Dilation_erosion_opening_and_closing.JPG)
 
 ### Morphological Operations - Tophat and MGrad
-![Morphological Operations - Tophat and MGrad](/images/tophat_and_mgrad.JPG)
+![Morphological Operations - Tophat and MGrad](/images/tophat_and_Mgrad.JPG)
 
-![Morphological Operations - Tophat and MGrad 1](/images/tophat_and_mgrad_1.JPG)
+![Morphological Operations - Tophat and MGrad 1](/images/tophat_and_Mgrad_1.JPG)
 
 ### Displaying Date and Time 
 ![displaying date and time](/images/displaying_date_and_time.JPG)
@@ -31,7 +31,7 @@ This is an ongoing project. Various image processing projects using python and o
 ![Edge Detection 1](/images/edge_detection_1.JPG)
 
 ### Fire Detection
-![Fire Detection](/images/fire_Detection.JPG)
+![Fire Detection](/images/fire_detection.JPG)
 
 ### Green Color Masking 
 ![Green Color Masking](/images/green_color_masking.JPG)
