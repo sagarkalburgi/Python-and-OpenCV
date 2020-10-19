@@ -16,3 +16,6 @@ This is an ongoing project. Various image processing projects using python and o
 
 # Displaying Date and Time 
 ![displaying date and time](/images/displaying date and time.JPG)
+
+# Meanshift Tracking 
+![meanshit tracking](/images/meanshift.JPG)
