@@ -9,7 +9,7 @@ This is an ongoing project. Various image processing projects using python and o
 ![Chamshift Tracking](/images/camshift.JPG)
 
 # Contour Detection
-![Contour Detection](/images/contour_detection.JPG)
+![Contour Detection](/images/contourdetection.JPG)
 
 # Morphological Operations - Dilation, Erosion, Opening and Closing 
 ![Morphological Operations - Dilation, Erosion, Opening and Closing ](/images/Dilation erosion opening and closing.JPG)
